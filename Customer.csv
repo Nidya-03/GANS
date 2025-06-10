@@ -1,0 +1,11 @@
+customer_id,first_name,last_name,date_of_birth,address,phone_number
+1,Alice,Morgan,1985-02-15,"12 Elm St, New York",9876543210
+2,Bob,Smith,1990-07-10,"45 Pine Ave, Boston",8765432109
+3,Charlie,Davis,1978-11-05,"87 Oak Blvd, Chicago",7654321098
+4,Daisy,Clark,1982-03-19,"23 Maple St, Seattle",6543210987
+5,Ethan,Lee,1995-01-21,"19 Cedar Rd, Dallas",5432109876
+6,Fiona,White,1988-05-30,"100 Birch Ln, Denver",4321098765
+7,George,Hill,1993-12-12,"34 Spruce Dr, Austin",3210987654
+8,Hannah,Young,2000-06-06,"77 Palm Ave, Orlando",2109876543
+9,Isaac,Turner,1986-09-09,"15 Willow Way, Phoenix",1098765432
+10,Julia,Adams,1975-08-25,"62 Aspen Ct, Atlanta",9988776655

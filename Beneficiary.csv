@@ -1,0 +1,11 @@
+beneficiary_id,policy_id,first_name,last_name,date_of_birth,relationship
+1,1,Mary,Morgan,1960-05-10,Mother
+2,2,John,Smith,1987-09-14,Brother
+3,3,Emma,Davis,2001-01-22,Daughter
+4,4,Henry,Clark,1976-12-01,Spouse
+5,5,Grace,Lee,1998-06-06,Sister
+6,6,Oliver,White,1990-03-11,Father
+7,7,Lucy,Hill,1989-07-20,Wife
+8,8,Noah,Young,2002-10-09,Son
+9,9,Ava,Turner,1972-11-30,Aunt
+10,10,Mia,Adams,2000-04-04,Niece

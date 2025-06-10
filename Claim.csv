@@ -1,0 +1,11 @@
+claim_id,policy_id,date_filed,claim_amount,description
+1,1,2024-06-01,5000.0,Medical check-up claim
+2,2,2023-09-10,2000.0,Accident damage
+3,3,2024-08-15,7000.0,Surgery reimbursement
+4,4,2023-02-02,1500.0,Storm damage
+5,5,2024-05-10,3000.0,Lost luggage claim
+6,6,2024-07-07,1800.0,Vet bill
+7,7,2024-03-03,2400.0,Bike accident claim
+8,8,2025-01-11,4000.0,Office fire damage
+9,9,2024-06-06,2200.0,Ship cargo loss
+10,10,2025-03-25,3600.0,Fire damage recovery

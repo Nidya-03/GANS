@@ -1,0 +1,11 @@
+status_id,status_name
+1,Active
+2,Inactive
+3,Expired
+4,Cancelled
+5,Pending
+6,Approved
+7,Denied
+8,Renewed
+9,Lapsed
+10,Terminated
