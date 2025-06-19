@@ -1,0 +1,4 @@
+﻿status_id,status_name
+1000,Active
+1001,Inactive
+1002,Expired

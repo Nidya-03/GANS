@@ -1,0 +1,10 @@
+models:
+- gretel/synthetics:
+    data_source: data_source
+    params:
+      batch_size: 500
+      epochs: 100
+      gen_temp: 1.0
+      model_type: actgan
+name: tabular-synthesizer
+schema_version: '1.0'
